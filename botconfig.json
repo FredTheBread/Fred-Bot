@@ -1,0 +1,5 @@
+{
+    "token": "NzA5MTA5ODQ2MjU1MDc1NDE4.XsrJ5Q.BnGoYQzJV_GA2lPSAksK6R0FtH0",
+    "prefix": "b!",
+    "mongoPass": "mongodb://MangementBot:MichaelCole2005@management-shard-00-00-wd9lu.mongodb.net:27017,management-shard-00-01-wd9lu.mongodb.net:27017,management-shard-00-02-wd9lu.mongodb.net:27017/test?ssl=true&replicaSet=Management-shard-0&authSource=admin&retryWrites=true&w=majority"
+}

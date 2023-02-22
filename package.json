@@ -1,0 +1,32 @@
+{
+  "name": "fred-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aero/centra": "^1.0.3",
+    "array-sort": "^1.0.0",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.13",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "novelcovid": "^2.1.1",
+    "parse-int": "^1.0.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "slice": "^1.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
